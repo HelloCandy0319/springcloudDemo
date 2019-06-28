@@ -1,0 +1,9 @@
+server:
+  port: 8014
+spring:
+  application:
+    name: callerDemo2
+#eureka:
+#  client:
+#    service-url:
+#      defaultZone: http://localhost:8010/eureka
